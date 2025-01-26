@@ -30,13 +30,4 @@ Here’s a glimpse of my progress in the coding world:
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiroNikolov01&show_icons=true&theme=radical" alt="Miro's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiroNikolov01&theme=radical" alt="Miro's GitHub Streak" width="400"/>
-</p>
-
----
-
 ✨ Thanks for visiting! Let’s build something amazing together!  
