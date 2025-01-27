@@ -28,6 +28,3 @@ Here’s a glimpse of my progress in the coding world:
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
 
----
-
-✨ Thanks for visiting! Let’s build something amazing together!  
