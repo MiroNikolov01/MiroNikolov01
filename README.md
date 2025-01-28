@@ -14,8 +14,8 @@ But you can call me **Miro**! 😊
 ## 📜 Certificates  
 Here’s a glimpse of my progress in the coding world:  
 
-![Certificate 1](https://i.imgur.com/pqDUjWu.png)  
-![Certificate 2](https://i.imgur.com/mjTJyna.png)  
+![Programming Basics Certificate](https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/ProgrammingBasics.png)  
+![Programming Fundamentals Certificate](https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/ProgrammingFundamentals.png)  
 
 ---
 
@@ -24,4 +24,4 @@ Here’s a glimpse of my progress in the coding world:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
 **Technologies:**  
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-bad
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
