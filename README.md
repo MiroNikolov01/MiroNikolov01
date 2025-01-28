@@ -11,14 +11,6 @@ But you can call me **Miro**! 😊
 
 ---
 
-## 📜 Certificates  
-Here’s a glimpse of my progress in the coding world:  
-
-![Programming Basics Certificate](https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/ProgrammingBasics.png)  
-![Programming Fundamentals Certificate](https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/ProgrammingFundamentals.png)  
-
----
-
 ## 💡 Skills & Tools  
 **Languages:**  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
