@@ -14,10 +14,8 @@ But you can call me **Miro**! 😊
 ## 📜 Certificates  
 Here’s a glimpse of my progress in the coding world:  
 
-<p align="center">
-  <img src="https://i.imgur.com/pqDUjWu.png" alt="Certificate 1" width="200" />
-  <img src="https://i.imgur.com/mjTJyna.png" alt="Certificate 2" width="200" />
-</p>  
+![Certificate 1](https://i.imgur.com/pqDUjWu.png)  
+![Certificate 2](https://i.imgur.com/mjTJyna.png)  
 
 ---
 
@@ -26,4 +24,4 @@ Here’s a glimpse of my progress in the coding world:
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
 **Technologies:**  
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-bad
