@@ -15,8 +15,8 @@ But you can call me **Miro**! 😊
 Here’s a glimpse of my progress in the coding world:  
 
 <p align="center">
-  <img src="https://github.com/MiroNikolov01/MiroNikolov01/assets/166949863/d06d1497-3d56-4ddb-a3a4-7df80abed8ec" alt="Certificate 1" width="200" style="margin: 0 10px;"/>
-  <img src="https://github.com/user-attachments/assets/bb24277c-49f2-4d17-aa02-a6b7a267c6bb" alt="Certificate 2" width="200" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/Screenshot2025-01-28.png" alt="Certificate 1" width="200" />
+  <img src="https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/Screenshot2024-12-02.png" alt="Certificate 2" width="200" />
 </p>  
 
 ---
@@ -27,4 +27,3 @@ Here’s a glimpse of my progress in the coding world:
 
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-
