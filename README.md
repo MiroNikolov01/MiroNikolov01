@@ -15,8 +15,8 @@ But you can call me **Miro**! 😊
 Here’s a glimpse of my progress in the coding world:  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/Screenshot2025-01-28.png" alt="Certificate 1" width="200" />
-  <img src="https://raw.githubusercontent.com/MiroNikolov01/MiroNikolov01/main/assets/Screenshot2024-12-02.png" alt="Certificate 2" width="200" />
+  <img src="https://i.imgur.com/pqDUjWu.png" alt="Certificate 1" width="200" />
+  <img src="https://i.imgur.com/mjTJyna.png" alt="Certificate 2" width="200" />
 </p>  
 
 ---
