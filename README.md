@@ -16,8 +16,9 @@ But you can call me **Miro**! 😊
 </div>
 <div align="center">
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+</div>
+<div align="center">
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
 </div>
