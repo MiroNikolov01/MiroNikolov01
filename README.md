@@ -22,6 +22,8 @@ But you can call me **Miro**! 😊
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
 </div>
 
+---
+
 <div align="center">
 # Certificates
 </div>
