@@ -17,3 +17,12 @@ But you can call me **Miro**! 😊
 
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+
+# Certificates
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea76b929-fc9a-4fad-b9c1-cca9598310ce" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/415adcb8-b0ca-44cb-9b83-3c3e2d038f1b" width="200" height="auto" />
+  <img src="https://github.com/user-attachments/assets/b0c924b3-a961-4425-8d9e-27ec7f3b9859" width="200" height="auto" />
+</div>
+
