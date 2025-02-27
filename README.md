@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Stanimir Nikolov!  
 But you can call me **Miro**! 😊  
 
@@ -20,10 +22,12 @@ But you can call me **Miro**! 😊
 
 ---
 
-# <div align="center">Certificates</div>
+# Certificates
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ea76b929-fc9a-4fad-b9c1-cca9598310ce" width="200" height="auto" />
-  <img src="https://github.com/user-attachments/assets/415adcb8-b0ca-44cb-9b83-3c3e2d038f1b" width="200" height="auto" />
-  <img src="https://github.com/user-attachments/assets/b0c924b3-a961-4425-8d9e-27ec7f3b9859" width="200" height="auto" />
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/ea76b929-fc9a-4fad-b9c1-cca9598310ce" width="200" height="auto" />
+    <img src="https://github.com/user-attachments/assets/415adcb8-b0ca-44cb-9b83-3c3e2d038f1b" width="200" height="auto" />
+    <img src="https://github.com/user-attachments/assets/b0c924b3-a961-4425-8d9e-27ec7f3b9859" width="200" height="auto" />
+  </div>
+  
 </div>
