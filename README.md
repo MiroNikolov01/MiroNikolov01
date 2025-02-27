@@ -14,13 +14,20 @@ But you can call me **Miro**! 😊
 <div align="center">
 ## 💡 Skills & Tools  
 </div>
+
 <div align="center">
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-</div>
-<div align="center">
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
+<br>
+
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+</div>
+
+<div align="center">
+**Links:**  
+[My GitHub](https://github.com/your-github) | [My LinkedIn](https://linkedin.com/in/your-profile)
 </div>
 
 ---
