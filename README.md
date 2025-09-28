@@ -13,13 +13,13 @@ But you can call me **Miro**! 😊
 
 ---
 
-## 💡 Skills & Tools  
 **Languages:**  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![T-SQL](https://img.shields.io/badge/T--SQL-%2335336C.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)  
 
 **Technologies:**  
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-%2335336C.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%2300B2A9.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
@@ -32,3 +32,4 @@ But you can call me **Miro**! 😊
   <img src="https://github.com/user-attachments/assets/0c5ee431-7e5e-4c8a-aacd-90395b51ca75" width="200" height="auto" />
 </div>
 
+<img width="600" height="315" alt="SQL" src="https://github.com/user-attachments/assets/733091f3-6e50-4a97-b518-9fd1fc090af0" />
