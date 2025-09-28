@@ -19,7 +19,8 @@ But you can call me **Miro**! 😊
 
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%2300B2A9?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=007396)
+<img src="https://github.com/user-attachments/assets/733091f3-6e50-4a97-b518-9fd1fc090af0" width="24" height="24" style="vertical-align: middle;" /> ![Server](https://img.shields.io/badge/Server-%2300B2A9?style=for-the-badge&logoColor=white)
+
 
 
 ---
