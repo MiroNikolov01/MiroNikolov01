@@ -32,4 +32,4 @@ But you can call me **Miro**! 😊
   <img src="https://github.com/user-attachments/assets/0c5ee431-7e5e-4c8a-aacd-90395b51ca75" width="200" height="auto" />
 </div>
 
-<img width="600" height="315" alt="SQL" src="https://github.com/user-attachments/assets/733091f3-6e50-4a97-b518-9fd1fc090af0" />
+
