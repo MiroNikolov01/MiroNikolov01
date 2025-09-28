@@ -20,8 +20,12 @@ But you can call me **Miro**! 😊
 **Technologies:**  
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![SQL Server](https://yourdomain.com/custom-sql-badge.png)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fc020746-4425-4aaa-acc0-6a511aad23c4" alt="SQL Icon" width="20" height="20" style="vertical-align: middle;" />
+  <span style="background-color:#00B2A9; color:white; font-weight:bold; padding:0.2em 0.5em; border-radius:0.25em; vertical-align: middle;">Server</span>
+</p>
 
-
+![Uploading SQL.png…]()
 
 
 ---
